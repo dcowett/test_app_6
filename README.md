@@ -1,5 +1,7 @@
 # README
 
+First Test repo on The Compute Ruby on Rails course
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
